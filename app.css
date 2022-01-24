@@ -508,6 +508,11 @@ button:hover:enabled {
 		margin-bottom:0;
 	}
 
+	#form-section {
+		background-image:url("images/bg-shorten-desktop.svg");
+		background-position:0;
+	}
+
 	#form-section button {
 		width:30%;
 	}
@@ -560,6 +565,10 @@ button:hover:enabled {
 		z-index:-1;
 		left:30%;
 		top:62.5%;
+	}
+
+	#top-footer-section {
+		background-image:url("images/bg-boost-desktop.svg");
 	}
 
 	#top-footer-section h2 {
