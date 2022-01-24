@@ -120,8 +120,8 @@ button:hover:enabled {
 	flex-direction: column;
 	text-align:center;
 	position:relative;
-	width:90%;
-	margin:10em auto 5em;
+	width:100%;
+	margin:10em 0 0;
 }
 
 #form-section {
